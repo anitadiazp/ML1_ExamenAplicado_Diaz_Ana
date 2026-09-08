@@ -62,6 +62,10 @@ Enlace al video de presentación: https://drive.google.com/file/d/10MJQVSFx1MciV
 
 **[AGREGAR ENLACE AL VIDEO]**
 
+## Uso de inteligencia artificial generativa
+
+Durante el desarrollo de este trabajo se utilizó ChatGPT como herramienta de apoyo para la comprensión de conceptos, revisión de código, resolución de errores y mejora de la redacción. Las decisiones metodológicas, ejecución del análisis, revisión de resultados e interpretación final fueron realizadas y verificadas por la autora.
+
 ## Autor
 
 **Ana Díaz**
