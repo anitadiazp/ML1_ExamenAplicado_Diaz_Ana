@@ -58,9 +58,9 @@ Posteriormente, ejecutar el notebook `ExamenML.ipynb`.
 
 ## Video
 
-Enlace al video de presentación: https://drive.google.com/file/d/10MJQVSFx1MciVmK-Smk3Uw5uwF8mDlAQ/view?usp=drive_link
+Enlace al video de presentación: 
 
-**[AGREGAR ENLACE AL VIDEO]**
+**https://drive.google.com/file/d/10MJQVSFx1MciVmK-Smk3Uw5uwF8mDlAQ/view?usp=drive_link**
 
 ## Uso de inteligencia artificial generativa
 
