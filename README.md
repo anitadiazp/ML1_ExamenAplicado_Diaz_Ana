@@ -58,7 +58,7 @@ Posteriormente, ejecutar el notebook `ExamenML.ipynb`.
 
 ## Video
 
-Enlace al video de presentación:
+Enlace al video de presentación: https://drive.google.com/file/d/10MJQVSFx1MciVmK-Smk3Uw5uwF8mDlAQ/view?usp=drive_link
 
 **[AGREGAR ENLACE AL VIDEO]**
 
